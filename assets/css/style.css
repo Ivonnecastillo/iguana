@@ -1,0 +1,126 @@
+body {
+  font-family: Raleway;
+  background: #000f08;
+  margin: 0;
+}
+
+.titulo {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.7em;
+}
+
+.texto {
+  text-align: left;
+  color: #ffffff;
+  width: 70%;
+  margin-left: 5%;
+  white-space: normal;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.claro {
+  text-align: center;
+  color: #ffffff;
+  background: #1e1a13;
+}
+
+
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0
+}
+
+section, footer {
+  margin-top: 75px;
+}
+
+footer {
+  padding: 50px;
+}
+
+.desc-section {
+  text-align: left;
+  color: #ffffff;
+  white-space: nowrap;
+  font-weight: 300;
+  margin: 100px;
+}
+
+.container img {
+  width: 35%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 50px;
+}
+
+.texto {
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+  padding:50px;
+}
+
+.icons-section {
+  text-align: center;
+  font-weight: 500;
+  color: #ffffff;
+  padding: 55px;
+}
+
+.icono1 {
+  width: 33%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icono2 {
+  width: 33%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icono3 {
+  width: 33%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.container3 img {
+  width: 25%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 55px;
+}
+
+#caracteristicas h1{
+  padding: 50px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 3em;
+}
+
+#caracteristicas h3{
+  padding: 50px;
+  text-align: center;
+  font-weight: 300;
+  font-size: 2em;
+}
+
+#inicio h1 {
+  padding: 20px;
+  text-align: center;
+}
+
+.titulo img {
+  width: 100%
+}
+
+#final {
+  font-weight: 300;
+  font-size: 1.3em;
+}
